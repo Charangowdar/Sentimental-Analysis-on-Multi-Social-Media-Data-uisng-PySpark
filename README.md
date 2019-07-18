@@ -13,5 +13,6 @@ Social Media provides a platform for people to express their opinion and thought
 Eg: if a New phone is launched by a company . They are really intersted in getting to know people's opinion and satisfaction on their product . By doing sentimental analysis a company can know what people expect and can implement a change in future products.
 Above is just one example i have given for which my project may seem useful.
 
-To do this Project one should know Basics of Python , Packages , Suitable ML algorithms and a to use simple tools of Python and for Data Visualizaiton
+To do this Project one should know Basics of Python , Packages , Suitable ML algorithms and to use simple tools of Python and for Data Visualizaiton
+Packages : Pandas,Numpy,Sci-kit learn,Matplotlib,Seaborn,folium etc
 Tools used : Pyspark and Jupyter Notebook
